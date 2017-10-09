@@ -4,6 +4,8 @@ Server: irc.last.fm
 Channel: #last.desktop
 
 # Build Dependencies
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Flastfm-desktop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Flastfm-desktop?ref=badge_shield)
+
 
 * Qt >= 4.8
 * liblastfm >= 1.0.7
@@ -165,3 +167,7 @@ If you find a bug in the software, please let us know about it.
 
 Michael Coffey<michaelc@last.fm>
 Desktop App Lead Developer, Last.fm
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Flastfm-desktop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Flastfm-desktop?ref=badge_large)
